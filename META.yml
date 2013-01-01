@@ -25,4 +25,4 @@ requires:
   warnings: 0
 resources:
   repository: git://github.com/pfenwick/app-exifpic.git
-version: 0.01
+version: 0.02

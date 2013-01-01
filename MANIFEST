@@ -1,9 +1,11 @@
+Changes
 LICENSE
 MANIFEST
 META.json
 META.yml
 Makefile.PL
 README
+README.pod
 bin/exifpic
 dist.ini
 lib/App/Exifpic.pm
